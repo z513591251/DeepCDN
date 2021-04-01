@@ -11,5 +11,6 @@ Use "10fold.pl" to process the data you need.
 Then type: "Python CNN+DNN.py"
 
 
-Installation requirements
+Installation requirements:
+
 We are based on Python 3.7.6 and Perl (v5.30.2).
