@@ -1,11 +1,11 @@
-# DeepCDN
+# Evaluation of deep learning approaches for modeling transcription factor sequence specificity
 
 A tool for sequence-based prediction of transcription factor binding specificity.
 
 To use this tool, there are several steps：
+
 #Step 1
 Use "10fold.pl" to process the data you need.
-
 
 #Step 2
 Then type: "Python CNN+DNN.py"
